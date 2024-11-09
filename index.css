@@ -1,0 +1,29 @@
+*{
+    background-color:hwb(309 67% 18%)
+}
+
+div {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
+.vermelho{
+    background-color: #ff0000;
+}
+
+#borda{
+    border: 1px solid black;
+}
+
+.azul{
+    background-color: hsl(193, 100%, 50%);
+}
+
+.verde{
+    background-color: hwb(136 0% 0%);
+}
+
+.amarelo{
+    background-color: rgba(245, 236, 2, 0.984);
+}
